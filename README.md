@@ -37,7 +37,7 @@ With the advancement of video generation foundation models (VGFMs), customized g
 <b><i>Tune to Balance</i></b>. In supervised fine-tuning, models trained on in-pair and cross-pair data exhibit complementary strengths and weaknesses in subject consistency and foundation model capabilities. We adopt a weighted model merging strategy to make a trade-off. We further design two direct preference optimization pipelines, termed Consis-DPO and Real-Fake DPO, and merge them to consolidate this balance.
 ## 🔥 Latest News
 
-* **2026-03-18**: We release the [Project Page](https://phantom-video.github.io/LibraGen/) and [Technique Report]() of **LibraGen**.
+* **2026-03-18**: We release the [Project Page](https://phantom-video.github.io/LibraGen/) and [Technique Report](http://arxiv.org/abs/2603.13506) of **LibraGen**.
 
 ## 📑 Todo List
 - [x] Release Paper
@@ -47,7 +47,7 @@ With the advancement of video generation foundation models (VGFMs), customized g
 
 ## ⭐ Citation
 
-If you find **LibraGen** helpful for your research, please consider giving us a ⭐ and citing our [paper]().
+If you find **LibraGen** helpful for your research, please consider giving us a ⭐ and citing our [paper](http://arxiv.org/abs/2603.13506).
 
 ### BibTeX
 ```bibtex
@@ -55,10 +55,10 @@ If you find **LibraGen** helpful for your research, please consider giving us a 
       title={LibraGen: A Balance Game in Subject-to-Video Generation}, 
       author={Jiahao Zhu and ShanShan Lao and Lijie Liu and Gen Li and Tianhao Qi and Wei Han and Bingchuan Li and Qian He and Yi Zhou and Xiaohua Xie},
       year={2026},
-      eprint={xxx.xxxx},
+      eprint={2603.13506},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/xxxx.xxxxx}, 
+      url={https://arxiv.org/abs/2603.13506}, 
 }
 ```
 
