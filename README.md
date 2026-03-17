@@ -42,8 +42,6 @@ With the advancement of video generation foundation models (VGFMs), customized g
 ## 📑 Todo List
 - [x] Release Paper
 - [x] Release Project Page
-- [ ] Inference Codes
-
 
 ## ⭐ Citation
 
