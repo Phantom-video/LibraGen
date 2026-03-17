@@ -21,7 +21,7 @@ With the advancement of video generation foundation models (VGFMs), customized g
 
 ## 📃 A Balance Game in Subject-to-Video Generation
 <p align="center">
-<img src="assets/images/balancegame.png" width=90%>
+<img src="assets/images/balancegame.png" width=95%>
 <p>
     (a) T2V/I2V foundation models lack task-specific training data and thus exhibit poor subject-to-video performance. 
     (b) Previous subject-to-video methods trained solely on in-pair data or 
@@ -30,7 +30,7 @@ With the advancement of video generation foundation models (VGFMs), customized g
 
 ## 📃 Raise the Fulcrum, Tune to Balance
 <p align="center">
-<img src="assets/images/post-training.png" width=90%>
+<img src="assets/images/post-training.png" width=95%>
 <p>
 <b><i>Raise the Fulcrum</i></b>. Data quality acts as a critical balancing fulcrum, and its careful refinement can significantly boost overall subject-to-video performance.
 
