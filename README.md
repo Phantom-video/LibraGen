@@ -1,1 +1,1 @@
-We strictly follow the anonymity principle. Please open index.html with your browser to view the paper details and supplementary videos.
+https://phantom-video.github.io/LibraGen/
