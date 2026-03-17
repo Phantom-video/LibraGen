@@ -50,8 +50,8 @@ If you find **LibraGen** helpful for your research, please consider giving us a 
 ### BibTeX
 ```bibtex
 @misc{zhu2026libragen,
-      title={LibraGen: A Balance Game in Subject-to-Video Generation}, 
-      author={Jiahao Zhu and ShanShan Lao and Lijie Liu and Gen Li and Tianhao Qi and Wei Han and Bingchuan Li and Qian He and Yi Zhou and Xiaohua Xie},
+      title={LibraGen: Playing a Balance Game in Subject-Driven Video Generation}, 
+      author={Jiahao Zhu and Shanshan Lao and Lijie Liu and Gen Li and Tianhao Qi and Wei Han and Bingchuan Li and Fangfang Liu and Zhuowei Chen and Tianxiang Ma and Qian HE and Yi Zhou and Xiaohua Xie},
       year={2026},
       eprint={2603.13506},
       archivePrefix={arXiv},
