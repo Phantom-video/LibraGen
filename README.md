@@ -13,7 +13,7 @@ ByteDance, Pazhou Laboratory (Huangpu), China
 </div>
 
 <p align="center">
-<img src="assets/images/exp_vis.png" width=90%>
+<img src="assets/images/exp_vis.png" width=100%>
 <p>
 
 ## 📃 Abstract
