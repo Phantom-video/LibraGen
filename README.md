@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <h1> LibraGen: Playing a Balance Game in Subject-Driven Video Generation </h1> -->
-<img src="assets/icon.png" width="100" style="vertical-align: middle;"> <h1> LibraGen: Playing a Balance Game in Subject-Driven Video Generation </h1>
+<img src="assets/icon.png" width="250" style="vertical-align: middle;"> <h1> LibraGen: Playing a Balance Game in Subject-Driven Video Generation </h1>
 
 <a href="https://arxiv.org/abs/2509.17627"><img src="https://img.shields.io/badge/arXiv%20paper-2509.08519-b31b1b.svg"></a>
 <a href="https://phantom-video.github.io/LibraGen/"><img src="https://img.shields.io/badge/Project_page-More_visualizations-green"></a>
