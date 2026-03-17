@@ -45,81 +45,51 @@ With the advancement of video generation foundation models (VGFMs), customized g
 ### Single Subject-Driven Video Generation
 <table class="center">
   <tr>
-    <td width="25%" style="border: none; vertical-align: top;">
+    <td width="25%" valign="top">
       <img src="assets/gif/1/1.gif" width="100%">
+      <details><summary><small>View Prompt</small></summary>
+      <font size="1">[The woman with long, wavy brown hair] tilts her head slightly downward. Her red lips lightly touch the cup's rim as she takes a delicate sip of coffee, her eyelashes fluttering gently. A strand of hair on her right side slips down her cheek along with the movement. The liquid inside the coffee cup ripples slightly, and thin steam curls upward from the rim of the cup.</font></details>
     </td>
-    <td width="25%" style="border: none; vertical-align: top;">
+    <td width="25%" valign="top">
       <img src="assets/gif/1/2.gif" width="100%">
+      <details><summary><small>View Prompt</small></summary>
+      <font size="1">[The woman with light brown curly hair] runs her fingertips gently along the curve of her curls. Her gaze slowly shifts from the canvas to the window outside, and her smile softens into a warmer one. The pearl earrings sway slightly with the subtle movement of her head. In the background, an unfinished oil painting on the easel looms faintly in the light and shadow.</font></details>
     </td>
-    <td width="25%" style="border: none; vertical-align: top;">
+    <td width="25%" valign="top">
       <img src="assets/gif/1/3.gif" width="100%">
+      <details><summary><small>View Prompt</small></summary>
+      <font size="1">[The blonde woman with a smile on her lips] stirs the cake batter clockwise. She lifts her left hand to brush away a strand of falling hair, her gaze drifting toward the window. Sunlight draws a soft light-and-shadow line along her profile. The swirling motion creates a gentle vortex in the batter inside the bowl.</font></details>
     </td>
-    <td width="25%" style="border: none; vertical-align: top;">
+    <td width="25%" valign="top">
       <img src="assets/gif/1/8.gif" width="100%">
-    </td>
-  </tr>
-  
-  <tr style="text-align: left;">
-    <td width="25%" style="border: none; vertical-align: top;">
-      <div style="height: 100px; overflow-y: auto; font-size: 10px; line-height: 1.4; padding: 5px; color: #888;">
-        [The woman with long, wavy brown hair] tilts her head slightly downward. Her red lips lightly touch the cup's rim as she takes a delicate sip of coffee, her eyelashes fluttering gently. A strand of hair on her right side slips down her cheek along with the movement. The liquid inside the coffee cup ripples slightly, and thin steam curls upward from the rim of the cup.
-      </div>
-    </td>
-    <td width="25%" style="border: none; vertical-align: top;">
-      <div style="height: 100px; overflow-y: auto; font-size: 10px; line-height: 1.4; padding: 5px; color: #888;">
-        [The woman with light brown curly hair] runs her fingertips gently along the curve of her curls. Her gaze slowly shifts from the canvas to the window outside, and her smile softens into a warmer one. The pearl earrings sway slightly with the subtle movement of her head. In the background, an unfinished oil painting on the easel looms faintly in the light and shadow.
-      </div>
-    </td>
-    <td width="25%" style="border: none; vertical-align: top;">
-      <div style="height: 100px; overflow-y: auto; font-size: 10px; line-height: 1.4; padding: 5px; color: #888;">
-        [The blonde woman with a smile on her lips] stirs the cake batter clockwise. She lifts her left hand to brush away a strand of falling hair, her gaze drifting toward the window. Sunlight draws a soft light-and-shadow line along her profile. The swirling motion creates a gentle vortex in the batter inside the bowl.
-      </div>
-    </td>
-    <td width="25%" style="border: none; vertical-align: top;">
-      <div style="height: 100px; overflow-y: auto; font-size: 10px; line-height: 1.4; padding: 5px; color: #888;">
-        [A woman with long black straight-across bangs] holds the violin neck with her left hand, and her right hand holds the bow above the strings, with part of a tattoo visible on her left shoulder. The background features a gorgeous dark red stage curtain, with golden decorative lights at the top casting triangular spotlights. As she draws the bow, the vibrating strings emit a faint glow; her head sways gently with the melody, her gaze slowly lifts from the violin to the camera, and a smile appears at the corners of her mouth.
-      </div>
+      <details><summary><small>View Prompt</small></summary>
+      <font size="1">[A woman with long black straight-across bangs] holds the violin neck with her left hand, and her right hand holds the bow above the strings, with part of a tattoo visible on her left shoulder. The background features a gorgeous dark red stage curtain, with golden decorative lights at the top casting triangular spotlights. As she draws the bow, the vibrating strings emit a faint glow; her head sways gently with the melody, her gaze slowly lifts from the violin to the camera, and a smile appears at the corners of her mouth.</font></details>
     </td>
   </tr>
 </table>
 
-### Dual-Subject Driven Video Generation
+### Dual Subject-Driven Video Generation
 <table class="center">
   <tr>
-    <td width="25%" style="border: none; vertical-align: top;">
+    <td width="25%" valign="top">
       <img src="assets/gif/2/6.gif" width="100%">
+      <details><summary><small>View Prompt</small></summary>
+      <font size="1">[A man wearing a dark hat and a black T-shirt printed with white "BELLKEN ORIGINAL"] raises his left arm; [a black dragon] flies towards him from afar and lands on his left arm, flapping its wings, the man looks towards the camera, and the camera rotates around the man and the dragon to showcase their poses.</font></details>
     </td>
-    <td width="25%" style="border: none; vertical-align: top;">
+    <td width="25%" valign="top">
       <img src="assets/gif/2/7.gif" width="100%">
+      <details><summary><small>View Prompt</small></summary>
+      <font size="1">Warm-toned atmosphere in a KTV private room. [A black-haired woman wearing a white strappy off-shoulder top] holds a black microphone in front of her mouth, singing soulfully with a focused gaze. Neon lights flicker in the background, and blurred shadows of the sofa and screen create a lively yet private spatial sense. The camera slowly zooms in; [a man wearing a necklace holds a rose], walks slowly towards the woman from the left side of the frame, and hands her the flower. Surprise appears in the woman's eyes, and her singing movement pauses slightly.</font></details>
     </td>
-    <td width="25%" style="border: none; vertical-align: top;">
+    <td width="25%" valign="top">
       <img src="assets/gif/2/11.gif" width="100%">
+      <details><summary><small>View Prompt</small></summary>
+      <font size="1">[A white man] sits in a black wheelchair, his brown curly hair fluttering slightly in the sea breeze. He wears an unbuttoned black blazer over a light blue shirt, with his hands resting naturally on his knees. [A Black man] stands behind pushing the wheelchair. He is dressed in a black knit sweater with a slightly rolled collar, and a stud earring in his right ear glints in the sun. The white man turns his head to look back at him, and both smile, showing their teeth. The blurred coastline stretches into the distance, with golden waves glistening on the sea.</font></details>
     </td>
-    <td width="25%" style="border: none; vertical-align: top;">
+    <td width="25%" valign="top">
       <img src="assets/gif/2/8.gif" width="100%">
-    </td>
-  </tr>
-  
-<tr style="text-align: left;">
-    <td width="25%" style="border: none; vertical-align: top;">
-      <div style="height: 100px; overflow-y: auto; font-size: 10px; line-height: 1.4; padding: 5px; color: #888;">
-        [A man wearing a dark hat and a black T-shirt printed with white "BELLKEN ORIGINAL"] raises his left arm; [a black dragon] flies towards him from afar and lands on his left arm, flapping its wings, the man looks towards the camera, and the camera rotates around the man and the dragon to showcase their poses.
-      </div>
-    </td>
-    <td width="25%" style="border: none; vertical-align: top;">
-      <div style="height: 100px; overflow-y: auto; font-size: 10px; line-height: 1.4; padding: 5px; color: #888;">
-        Warm-toned atmosphere in a KTV private room. [A black-haired woman wearing a white strappy off-shoulder top] holds a black microphone in front of her mouth, singing soulfully with a focused gaze. Neon lights flicker in the background, and blurred shadows of the sofa and screen create a lively yet private spatial sense. The camera slowly zooms in; [a man wearing a necklace holds a rose], walks slowly towards the woman from the left side of the frame, and hands her the flower. Surprise appears in the woman's eyes, and her singing movement pauses slightly.
-      </div>
-    </td>
-    <td width="25%" style="border: none; vertical-align: top;">
-      <div style="height: 100px; overflow-y: auto; font-size: 10px; line-height: 1.4; padding: 5px; color: #888;">
-        [A white man] sits in a black wheelchair, his brown curly hair fluttering slightly in the sea breeze. He wears an unbuttoned black blazer over a light blue shirt, with his hands resting naturally on his knees. [A Black man] stands behind pushing the wheelchair. He is dressed in a black knit sweater with a slightly rolled collar, and a stud earring in his right ear glints in the sun. The white man turns his head to look back at him, and both smile, showing their teeth. The blurred coastline stretches into the distance, with golden waves glistening on the sea.
-      </div>
-    </td>
-    <td width="25%" style="border: none; vertical-align: top;">
-      <div style="height: 100px; overflow-y: auto; font-size: 10px; line-height: 1.4; padding: 5px; color: #888;">
-        [A vaporwave-style girl] sits beside a pile of tires, supporting herself on the ground to stand up. There is [a blue vintage sports car with blue-purple neon lights]. Finally, the camera freezes on a panoramic view of the girl standing side by side with the sports car. She turns her head and smiles. The whole scene blends street fashion and retro neon elements, creating a stylish and healing atmosphere.
-      </div>
+      <details><summary><small>View Prompt</small></summary>
+      <font size="1">[A vaporwave-style girl] sits beside a pile of tires, supporting herself on the ground to stand up. There is [a blue vintage sports car with blue-purple neon lights]. Finally, the camera freezes on a panoramic view of the girl standing side by side with the sports car. She turns her head and smiles. The whole scene blends street fashion and retro neon elements, creating a stylish and healing atmosphere.</font></details>
     </td>
   </tr>
 </table>
@@ -127,42 +97,29 @@ With the advancement of video generation foundation models (VGFMs), customized g
 ### Video Generation Driven by More Than Two Subjects
 <table class="center">
   <tr>
-    <td width="25%" style="border: none; vertical-align: top;">
+    <td width="25%" valign="top">
       <img src="assets/gif/3/1.gif" width="100%">
+      <details><summary><small>View Prompt</small></summary>
+      <font size="1">Warm and cozy restaurant atmosphere. [A curly-haired man] holds [a black stone pot filled with rich bibimbap ingredients and a golden fried egg], while on the right, [a black-haired woman with a bun] holds [a glass bowl of ice cream], gently biting the ice cream spoon. The two sit facing each other, the man with a slight smile at the corner of his mouth and the woman with a smiling gaze. Warm yellow lights glow in the background, a wooden dining table is faintly visible, creating a lazy and intimate ambiance.</font></details>
     </td>
-    <td width="25%" style="border: none; vertical-align: top;">
+    <td width="25%" valign="top">
       <img src="assets/gif/3/7.gif" width="100%">
+      <details><summary><small>View Prompt</small></summary>
+      <font size="1">[A woman] wearing [a red wide-brimmed straw hat] stands on [the black sand beach], holding [a black cat] gently in her arms like a mother holding a baby, with her hair flowing in the wind. The camera slowly pushes forward from a distance, focusing on the woman's face and the cat leaning on her shoulder; the black cat rubs against her affectionately, creating a warm atmosphere.</font></details>
     </td>
-    <td width="25%" style="border: none; vertical-align: top;">
+    <td width="25%" valign="top">
       <img src="assets/gif/3/8.gif" width="100%">
+      <details><summary><small>View Prompt</small></summary>
+      <font size="1">In [a bright kitchen with white cabinets, a sink and windows in the background, sunlight shines in]. [A baby panda] wears [a white chef hat], puts its front paws on the counter, and looks at the cake mold on the counter. It picks up the cream stick with its front paws and creams the cake. Then it handles the batter clumsily but seriously.</font></details>
     </td>
-    <td width="25%" style="border: none; vertical-align: top;">
+    <td width="25%" valign="top">
       <img src="assets/gif/3/9.gif" width="100%">
+      <details><summary><small>View Prompt</small></summary>
+      <font size="1">In [a bright sunny scene on an off-white beach, with a blue sea, sky, gray-brown rocks and hazy distant islands in the background], [a young woman with dark brown curly hair and brown tortoiseshell sunglasses on top of her head] stands on the off-white beach, slightly sideways, gently shaking [a cup of milk tea in a transparent plastic cup] with her right hand, [a tulip bouquet] in her left hand swaying gently with the movement, her dark brown curly hair blown slightly by the sea breeze.</font></details>
     </td>
   </tr>
-<tr style="text-align: left;">
-<td width="25%" style="border: none; vertical-align: top;">
-    <div style="height: 100px; overflow-y: auto; font-size: 10px; line-height: 1.4; padding: 5px; color: #888;">
-    Warm and cozy restaurant atmosphere. [A curly-haired man] holds [a black stone pot filled with rich bibimbap ingredients and a golden fried egg], while on the right, [a black-haired woman with a bun] holds [a glass bowl of ice cream], gently biting the ice cream spoon. The two sit facing each other, the man with a slight smile at the corner of his mouth and the woman with a smiling gaze. Warm yellow lights glow in the background, a wooden dining table is faintly visible, creating a lazy and intimate ambiance.
-    </div>
-</td>
-<td width="25%" style="border: none; vertical-align: top;">
-    <div style="height: 100px; overflow-y: auto; font-size: 10px; line-height: 1.4; padding: 5px; color: #888;">
-    [A woman] wearing [a red wide-brimmed straw hat] stands on [the black sand beach], holding [a black cat] gently in her arms like a mother holding a baby, with her hair flowing in the wind. The camera slowly pushes forward from a distance, focusing on the woman's face and the cat leaning on her shoulder; the black cat rubs against her affectionately, creating a warm atmosphere.
-    </div>
-</td>
-<td width="25%" style="border: none; vertical-align: top;">
-    <div style="height: 100px; overflow-y: auto; font-size: 10px; line-height: 1.4; padding: 5px; color: #888;">
-    In [a bright kitchen with white cabinets, a sink and windows in the background, sunlight shines in]. [A baby panda] wears [a white chef hat], puts its front paws on the counter, and looks at the cake mold on the counter. It picks up the cream stick with its front paws and creams the cake. Then it handles the batter clumsily but seriously.
-    </div>
-</td>
-<td width="25%" style="border: none; vertical-align: top;">
-    <div style="height: 100px; overflow-y: auto; font-size: 10px; line-height: 1.4; padding: 5px; color: #888;">
-    In [a bright sunny scene on an off-white beach, with a blue sea, sky, gray-brown rocks and hazy distant islands in the background], [a young woman with dark brown curly hair and brown tortoiseshell sunglasses on top of her head] stands on the off-white beach, slightly sideways, gently shaking [a cup of milk tea in a transparent plastic cup] with her right hand, [a tulip bouquet] in her left hand swaying gently with the movement, her dark brown curly hair blown slightly by the sea breeze.
-    </div>
-</td>
-</tr>
 </table>
+
 ## 👍 Other Remarkable Video Works
 We also invite you to explore our other awesome video works:
 
