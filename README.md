@@ -1,5 +1,6 @@
 <div align="center">
-<h1> LibraGen: Playing a Balance Game in Subject-Driven Video Generation </h1>
+<!-- <h1> LibraGen: Playing a Balance Game in Subject-Driven Video Generation </h1> -->
+<img src="assets/icon.png" width="100" style="vertical-align: middle;"> <h1> LibraGen: Playing a Balance Game in Subject-Driven Video Generation </h1>
 
 <a href="https://arxiv.org/abs/2509.17627"><img src="https://img.shields.io/badge/arXiv%20paper-2509.08519-b31b1b.svg"></a>
 <a href="https://phantom-video.github.io/LibraGen/"><img src="https://img.shields.io/badge/Project_page-More_visualizations-green"></a>
@@ -16,7 +17,7 @@ ByteDance, Pazhou Laboratory (Huangpu), China
 <p>
 
 ## 📃 Abstract
-With the advancement of video generation foundation models (VGFMs), customized generation, particularly subject-to-video (S2V), has attracted growing attention. However, a key challenge lies in balancing the intrinsic priors of a VGFM, such as motion coherence, visual aesthetics, and prompt alignment, with its newly derived S2V capability. Existing methods often neglect this balance by enhancing one aspect at the expense of others. To address this, we propose <b><i>LibraGen</i></b>, a novel framework that views extending foundation models for S2V generation as a balance game between intrinsic VGFM strengths and S2V capability. Specifically, guided by the core philosophy of “Raising the Fulcrum, Tuning to Balance,” we identify data quality as the fulcrum and advocate a quality-over-quantity approach. We construct a hybrid pipeline that combines automated and manual data filtering to improve overall data quality. To further harmonize the VGFM’s native capabilities with its S2V extension, we introduce a Tune-to-Balance post-training paradigm. During supervised fine-tuning, both cross-pair and in-pair data are incorporated, and model merging is employed to achieve an effective trade-off. Subsequently, two tailored direct preference optimization (DPO) pipelines, namely <b><i>Consis-DPO</i></b> and <b><i>Real-Fake DPO</i></b>, are designed and merged to consolidate this balance. During inference, we introduce a time-dependent dynamic classifier-free guidance scheme to enable flexible and fine-grained control. Experimental results demonstrate that LibraGen outperforms both open-source and commercial S2V models using only ten-thousand-scale training data.
+With the advancement of video generation foundation models (VGFMs), customized generation, particularly subject-to-video (S2V), has attracted growing attention. However, a key challenge lies in balancing the intrinsic priors of a VGFM, such as motion coherence, visual aesthetics, and prompt alignment, with its newly derived S2V capability. Existing methods often neglect this balance by enhancing one aspect at the expense of others. To address this, we propose <b><i>LibraGen</i></b>, a novel framework that views extending foundation models for S2V generation as a balance game between intrinsic VGFM strengths and S2V capability. Specifically, guided by the core philosophy of “Raising the Fulcrum, Tuning to Balance,” we identify data quality as the fulcrum and advocate a quality-over-quantity approach. We construct a hybrid pipeline that combines automated and manual data filtering to improve overall data quality. To further harmonize the VGFM’s native capabilities with its S2V extension, we introduce a Tune-to-Balance post-training paradigm. During supervised fine-tuning, both cross-pair and in-pair data are incorporated, and model merging is employed to achieve an effective trade-off. Subsequently, two tailored direct preference optimization (DPO) pipelines, namely <b><i>Consis-DPO</i></b> and <b><i>Real-Fake DPO</i></b>, are designed and merged to consolidate this balance. During inference, we introduce a time-dependent dynamic classifier-free guidance scheme to enable flexible and fine-grained control. Experimental results demonstrate that LibraGen outperforms both open-source and commercial S2V models using only thousand-scale training data.
 
 ## 📃 A Balance Game in Subject-to-Video Generation
 <p align="center">
@@ -54,10 +55,10 @@ If you find **LibraGen** helpful for your research, please consider giving us a 
       title={LibraGen: A Balance Game in Subject-to-Video Generation}, 
       author={Jiahao Zhu and ShanShan Lao and Lijie Liu and Gen Li and Tianhao Qi and Wei Han and Bingchuan Li and Qian He and Yi Zhou and Xiaohua Xie},
       year={2026},
-      eprint={2609.17627},
+      eprint={xxx.xxxx},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2509.17627}, 
+      url={https://arxiv.org/abs/xxxx.xxxxx}, 
 }
 ```
 
