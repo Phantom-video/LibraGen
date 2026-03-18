@@ -2,7 +2,7 @@
 <!-- <h1> LibraGen: Playing a Balance Game in Subject-Driven Video Generation </h1> -->
 <img src="assets/icon.png" width="250" style="vertical-align: middle;"> <h1> LibraGen: Playing a Balance Game in Subject-Driven Video Generation </h1>
 
-<a href="https://arxiv.org/abs/2509.17627"><img src="https://img.shields.io/badge/arXiv%20paper-2509.08519-b31b1b.svg"></a>
+<a href="http://arxiv.org/abs/2603.13506"><img src="https://img.shields.io/badge/arXiv%20paper-2509.08519-b31b1b.svg"></a>
 <a href="https://phantom-video.github.io/LibraGen/"><img src="https://img.shields.io/badge/Project_page-More_visualizations-green"></a>
 
 **Jiahao Zhu***, [**ShanShan Lao***](https://scholar.google.com/citations?user=gIZam1EAAAAJ)*, [**Lijie Liu***](https://liulj13.github.io/)*, [**Gen Li***](https://scholar.google.com/citations?user=wqA7EIoAAAAJ&hl)*, [**Tianhao Qi***](https://scholar.google.com/citations?user=eU_veu0AAAAJ)*, [**Wei Han***](https://openreview.net/profile?id=~hanwei2), [**Bingchuan Li**](https://scholar.google.com/citations?user=ac5Se6QAAAAJ)* $^\dagger$, [**FangFang Liu**](https://openreview.net/profile?id=~FangfangLiu2), [**Zhuowei Chen**](https://scholar.google.com/citations?user=ow1jGJkAAAAJ), [**Tianxiang Ma**](https://tianxiangma.github.io/), [**Qian He**](https://scholar.google.com/citations?user=9rWWCgUAAAAJ), **Yi Zhou** $^\ddagger$, **Xiaohua Xie** $^\ddagger$
